@@ -1,6 +1,6 @@
-# nova_task
+# Nova Task
 
-A new Flutter project.
+A Todolist Flutter Application.
 
 ## Getting Started
 
