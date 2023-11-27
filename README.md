@@ -1,16 +1,3 @@
-# Nova Task
+# Nova Task - Intuitive Todo List App
 
-A Todolist Flutter Application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Nova Task is a user-friendly todo list app designed to simplify your daily tasks. With a clean interface and intuitive features, effortlessly manage and organize your to-dos. Stay on top of your schedule with Nova Task, your personal task companion.
